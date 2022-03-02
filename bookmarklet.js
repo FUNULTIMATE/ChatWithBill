@@ -1,3 +1,4 @@
+//bookmarklet
 javascript:
 	var txt = prompt("Say something to Bill!");
 	document.write("<h3>" + txt + "</h3>");
