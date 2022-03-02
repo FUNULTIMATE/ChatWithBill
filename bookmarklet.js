@@ -18,7 +18,7 @@ javascript:
 										if(txt.indexOf('why') >= 0){
 											var answer = Array("because your mom", "because god is dead", "because your emo", "because your stupid", "because your dumb", "because your mom dropped you when you were a baby");
 											} else {
-												if(txt.indexOf('were') >= 0){
+												if(txt.indexOf('where') >= 0){
 													var answer = Array("your mom's house", "your dad's house", "in hell", "in heaven", "behind you", "in mexico");
 													} else {
 														var answer = Array("yes", "yes", "yes", "no", "no", "no", "shut up", "Hahaha", "100%", "seriosly?", "no you");
