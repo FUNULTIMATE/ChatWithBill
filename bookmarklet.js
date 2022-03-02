@@ -1,5 +1,5 @@
 javascript:
-	var txt = prompt();
+	var txt = prompt("Say something to Bill!");
 	document.write("<h3>" + txt + "</h3>");
 	var time = Math.floor(Math.random() * 3500);
 	setTimeout(function() {
