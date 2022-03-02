@@ -1,2 +1,1 @@
-Copy the code from bookmarklet.js then create a bookmark and paste the code into the bookmark URL box. (the bookmark name doesn't matter)
-Then open a new tab and click the bookmark.
+Highlight the code in bookmarklet.js, then drag that code to your bookmarks bar. Then open a new tab and click that bookmark!
